@@ -13,7 +13,7 @@ Features
 
 Timing
 ======
-Recognition of one voice betwwen ten :
+Recognition of one voice between ten :
  - 5 ms on Core i7 3.4Ghz
  - 10 ms on Celeron G540 2.5Ghz
  - 154 ms on Raspberry PI model A 
