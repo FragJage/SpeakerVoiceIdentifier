@@ -1,0 +1,8 @@
+/*.cmd
+/makeRPI
+/*.layout
+/*.depend
+/SpeakerIdCpp.VC.db
+/.vs
+/bin
+/obj
